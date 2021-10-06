@@ -1,5 +1,5 @@
 # WordNet2VerbNet_Mappings
-Mappings of wordnet senses to verbnet, scraped by me from https://verbs.colorado.edu/html_groupings/ 
+Mappings of WordNet senses to VerbNet, scraped by me from https://verbs.colorado.edu/html_groupings/ 
 
 The file containes mappings from WordNet 3.0 to VerbNet 3.3
 
